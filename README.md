@@ -12,3 +12,6 @@
  MinStack               | [Click Here](https://github.com/rudrakshi99/Low_Level_Design/blob/master/Code/MinStack.cpp)
  Underground System     | [Click Here](https://github.com/rudrakshi99/Low_Level_Design/blob/master/Code/UndergroundSystem.cpp)
 
+Resources
+* https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr
+* https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles
