@@ -9,7 +9,7 @@ using namespace std;
 
 class ATM {
 public:
-    unordered_map<long long int, long long int> m;
+    unordered_map<long long int, long long int> m; // note, count
     int note[5] = {20, 50, 100, 200, 500};
     ATM() {
 
@@ -53,7 +53,9 @@ public:
 
 int main() {
     ATM* obj = new ATM();
+    vector<int> banknotesCount = {0, 0, 1, 2, 1};
     obj->deposit(banknotesCount);
+    int amount = 100;
     vector<int> param_2 = obj->withdraw(amount);
     return 0;
 }
