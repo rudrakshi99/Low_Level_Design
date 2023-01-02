@@ -10,6 +10,7 @@
  LRU Cache              | [Click Here](https://github.com/rudrakshi99/Low_Level_Design/blob/master/Code/LRU%20Cache.cpp)
  MaxFreqStack           | [Clic Here](https://github.com/rudrakshi99/Low_Level_Design/blob/master/Code/MaxFreqStack.cpp)
  MinStack               | [Click Here](https://github.com/rudrakshi99/Low_Level_Design/blob/master/Code/MinStack.cpp)
+ MusicPlaylist          | [Click Here](https://github.com/rudrakshi99/Low_Level_Design/blob/master/Code/MusicPlaylist.cpp)
  SnakeAndLadder         | [Click Here](https://github.com/rudrakshi99/Low_Level_Design/blob/master/Code/SnakeAndLadder.cpp)
  Underground System     | [Click Here](https://github.com/rudrakshi99/Low_Level_Design/blob/master/Code/UndergroundSystem.cpp)
 
