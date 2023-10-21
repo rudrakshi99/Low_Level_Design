@@ -1,4 +1,4 @@
-public class NullVehical implements Vehical {
+public class NullVehicle implements Vehicle {
 
     @Override
     public int getTankCapacity() {

@@ -1,4 +1,4 @@
-public interface Vehical {
+public interface Vehicle {
 
     int getTankCapacity();
     int getSeatingCapacity();

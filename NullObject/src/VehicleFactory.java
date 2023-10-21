@@ -1,10 +1,10 @@
-public class VehicalFactory {
+public class VehicleFactory {
 
-    static Vehical getVehicleObject(String typeOfVehicle) {
+    static Vehicle getVehicleObject(String typeOfVehicle) {
         if("Car".equals(typeOfVehicle)) {
             return new Car();
         }
 
-        return new NullVehical();
+        return new NullVehicle();
     }
 }
