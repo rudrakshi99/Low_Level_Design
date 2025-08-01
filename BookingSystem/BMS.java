@@ -6,7 +6,7 @@ public class BMSService  {
 	public List<CinemaHall> getCinemalHalls(String city);
 
 }
-
+// can use Event class intead and extend it to CinemaHall, ConsertHall, etc.
 public class CinemaHall {
 
 	int cinemaHallId;
